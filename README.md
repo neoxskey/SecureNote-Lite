@@ -19,3 +19,5 @@ Privacy & Security:
 • Notes never leave your device
 
 SecureNote Lite is suitable for personal use, learning projects, and users who value privacy and simplicity.
+## Installation
+See [INSTALL.md](INSTALL.md)
